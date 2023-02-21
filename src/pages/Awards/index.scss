@@ -1,0 +1,17 @@
+.awards {
+  .col {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    img {
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+    }
+
+    .title-text-sub-heading {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+}

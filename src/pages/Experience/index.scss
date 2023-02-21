@@ -1,0 +1,20 @@
+.experience {
+  .experience-content {
+    .col {
+      display: flex;
+      justify-content: space-between;
+
+      .title-text-heading {
+        margin-bottom: 0;
+      }
+
+      .title-text-sub-heading {
+        color: #22a39f;
+      }
+    }
+
+    .title-text-sub-heading {
+      margin-top: 0;
+    }
+  }
+}
